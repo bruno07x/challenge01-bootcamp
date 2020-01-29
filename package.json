@@ -1,0 +1,14 @@
+{
+  "name": "challenge01",
+  "version": "1.0.0",
+  "description": "Bootcamp 2020 RocketSeat, challenge about concepts NodeJS with Express",
+  "main": "index.js",
+  "author": "Bruno Couto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
