@@ -106,4 +106,4 @@ Delete a project equal the id.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@bruno07x](https://github.com/bruno07x) - Idea & Initial work
+- [@bruno07x](https://github.com/bruno07x) - Desenvolvedor front-end apaixonado por desafios, linux e xadrez :D
