@@ -1,5 +1,7 @@
-![go-stack_1050x240.png](:/3f59ab7da10d424e98e4101cd7bb9a51)
+<div align="center">
+<img src="https://camo.githubusercontent.com/8c13dc2618dbd7f76d1d574350b98fdee1335ce5/68747470733a2f2f726f636b6574736561742d63646e2e73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f626f6f7463616d702d6865616465722e706e67" alt="[Go Stack Challenge]" title="Go Stack Challenge">
 <h1 align="center">Challenge01 - API Rest</h1>
+</div>
 ---
 
 ## 📝 Table of Contents
@@ -61,7 +63,7 @@ Read the projects, return json.
 
 > http://localhost:3000/projects
 
-Create a project. Need to pass a json format content an `id` and `title`.
+Create a project. It is necessary to pass a json format content an `id` and `title`.
 ```
 {
     "id" : "1",
@@ -71,7 +73,7 @@ Create a project. Need to pass a json format content an `id` and `title`.
 ```
 > http://localhost:3000/projects/1/tasks
 
-Create a tasks for the project. Need to pass a json format content `title`.
+Create a tasks for the project. It is necessary to pass a json format content `title`.
 
 ```
 {
@@ -82,7 +84,7 @@ Create a tasks for the project. Need to pass a json format content `title`.
 **PUT**
 > `http://localhost:3000/projects/1`
 
-Update a project. Need to pass a json format content a new `title`.
+Update a project. It is necessary to pass a json format content a new `title`.
 
 ```
 {
